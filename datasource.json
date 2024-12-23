@@ -4,13 +4,13 @@
 	"raw": [
 		{
 			"url": "https://github.com/vulsio/vuls-data-raw-nvd-api-cve",
-			"commit": "7fb1b00cea80931fc35af710fda87eade3419447",
-			"date": "2024-12-23T12:16:58Z"
+			"commit": "084cbd36f7b4998740a1157923ac4c45bff388b5",
+			"date": "2024-12-23T18:13:51Z"
 		},
 		{
 			"url": "https://github.com/vulsio/vuls-data-raw-nvd-api-cpematch",
-			"commit": "d1e60d029383c76797d690e8f891615ee1261037",
-			"date": "2024-12-23T12:27:35Z"
+			"commit": "ec3d61b01c6cc79f73c6778bc9a8b7e824cbcb7e",
+			"date": "2024-12-23T18:18:35Z"
 		}
 	],
 	"extracted": {
